@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1457385991 source:c:\users\serge\documents\programming\c++\store credit\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
+1457561192 source:c:\users\user\desktop\school\cisc3150\store credit\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+
